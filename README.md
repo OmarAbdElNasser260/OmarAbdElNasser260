@@ -1,4 +1,5 @@
-<h1 align="center">Hey <img src="Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻</h1>
+<h1 align="center">Hey <img src="Hi.gif" width="40px" />, Welcome to my GitHub &#129489;</h1>
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/Software-QA%20%26%20QC-brightgreen" alt="Software QC & QA" />
