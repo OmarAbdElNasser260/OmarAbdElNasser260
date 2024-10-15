@@ -58,6 +58,3 @@ Hi! I'm *Omar Abd-ElNasser, diligent and enthusiastic Junior Software Testing En
 
 ---
 
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=AbdallahALBanna&icon=6&color=10" alt="Profile Views" />
-</p>
