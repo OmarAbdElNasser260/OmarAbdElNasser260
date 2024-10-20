@@ -11,7 +11,7 @@
 
 ## 💫 About Me:
 
-Hi! I'm *Omar Abd-ElNasser, diligent and enthusiastic Junior Software Testing Engineer, certified by ISTQB, actively seeking new opportunities to apply my skills and passion for ensuring product quality. With a strong foundation in software testing methodologies and tools, I have pursued my passion for software testing through an ITI Scholarship and self-study, culminating in hands-on market experience. I am now looking forward to new challenges that will allow me to further develop my expertise and contribute to high-quality software delivery.
+Hi! I'm Omar Abd-ElNasser, diligent and enthusiastic Junior Software Testing Engineer, certified by ISTQB, actively seeking new opportunities to apply my skills and passion for ensuring product quality. With a strong foundation in software testing methodologies and tools, I have pursued my passion for software testing through an ITI Scholarship and self-study, culminating in hands-on market experience. I am now looking forward to new challenges that will allow me to further develop my expertise and contribute to high-quality software delivery.
 
 - 🔭 *Current Role:* Working in *Software QC & QA*  
 - 👯 *Collaborations:* I'm open to working on *Manual* and *Automation Software Testing* projects. If you're looking for a partner to optimize your testing process, feel free to reach out!  
