@@ -23,7 +23,7 @@ Hi! I'm Omar Abd-ElNasser, diligent and enthusiastic Junior Software Testing Eng
 
 ## 🌐 Connect with Me:
 <p align="center">
-    <a href="https://www.linkedin.com/in/omar-abd-elnasser-484a59212/">
+    <a href="https://www.linkedin.com/in/omar-abd-el-nasser-484a59212/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
